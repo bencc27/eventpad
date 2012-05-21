@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Events</string>
+    <string name="no_notes">No Events Yet</string>
+    <string name="menu_insert">Add Event</string>
+    <string name="menu_delete">Delete Event</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Event</string>
+</resources>
